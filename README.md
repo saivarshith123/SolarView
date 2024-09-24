@@ -19,7 +19,7 @@ Welcome to SolarView, a captivating and visually stunning representation of our 
     - Navigate to the directory where you want to clone the repository.
     - Run the following command:
       ```bash
-      git clone https://github.com/YOUR-USERNAME/SolarView.git
+      git clone https://github.com/saivarshith123/SolarView.git
       ```
 
 2. **Open the Project:**
